@@ -467,15 +467,63 @@ body {
 }
 
 .content {
-  background-color: rgba(255, 255, 255, 0.8);
+  
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 50px;
 }
 
 
-.text {
+.text1 {
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.text2{
   text-align: center;
   font-size: 24px;
+  font-weight: bold; 
+}
+
+.robote{
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold; 
+}
+
+.roboter{
+  text-align: center;
+  font-size: 15px;
   font-weight: bold;
+}
+
+.geo{
+  width: 1339px;
+  height: 350px;
+  background-color: #521303;
+  text-align: center;
+}
+
+.geo1{
+  padding: 80px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #fcf9f9;
+}
+.geo2{
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fcf9f9;
+}
+
+.geo3{
+  padding: 6px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  color: #fcf9f9;
 }
