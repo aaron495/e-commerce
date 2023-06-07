@@ -457,3 +457,25 @@ img {
 .dou{
   text-align: center;
 }
+
+body {
+  background-image: url("robot.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  background-color: rgba(255, 255, 255, 0.8);
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+.text {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
